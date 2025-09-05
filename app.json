@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Help App Care Animals",
+    "slug": "help-app-care-animals",
+    "scheme": "helpapp",
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-asset"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "ios": {
+      "bundleIdentifier": "com.marin.helpappcareanimals",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.marin.helpappcareanimals"
+    }
+  }
+}
